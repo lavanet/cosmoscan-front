@@ -113,9 +113,7 @@ export const selectStyles = {
 };
 
 export const networkList = [
-  { label: 'COSMOS', value: 'cosmos', coinCode: 'ATOM' },
-  { label: 'PERSISTENCE', value: 'persistence', coinCode: 'XPRT' },
-  { label: 'BITSONG', value: 'bitsong', coinCode: 'BTSG' },
+  { label: 'COSMOS', value: 'cosmos', coinCode: 'STAKE' },
 ];
 
 export const bluePalette = [
